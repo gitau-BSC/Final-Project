@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# Python Cache Files
+__pycache__/
+
+# Node Modules (if applicable)
+node_modules/
+
+# System Files
+.DS_Store
+
+# Ignore package files if necessary
+package-lock.json
+package.json
